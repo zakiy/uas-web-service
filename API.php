@@ -18,8 +18,8 @@ title: Laptops API
                 status: "ok",
                 {
                   ID: "111",
-                  Brand: "ASUS",
-                  Model: "XC451",
+                  Brand: "ACER",
+                  Model: "ASPIRE 4752G",
                   release_year : "2014",
                 },
                 {
